@@ -8,7 +8,7 @@ layout: post
 
 >In a letter sent directly to the president the renowned civil rights activist called attention to the “serious inequities [in the] GMO labeling legislation.” The bill would allow companies to use QR codes in place of on-package labeling to disclose product information. In the letter Jackson points out the discriminatory nature of such a labeling system;
 >
-> > "100,000,000 Americans, most of them poor, people of color and elderly either do not own a smart phone or an iPhone to scan the QR code or live in an area of poor internet connectivity....There are serious questions of discrimination presented here and unresolved matters of equal protection of the law. I am asking you to veto this bill and to send it back to Congress with instructions to correct this fatal flaw."
+> > "100,000,000 Americans, most of them poor, people of color and elderly either do not own a smart phone or an iPhone to scan the QR code or live in an area of poor internet connectivity..There are serious questions of discrimination presented here and unresolved matters of equal protection of the law. I am asking you to veto this bill and to send it back to Congress with instructions to correct this fatal flaw."
 
 There are so many issues with using QR codes to convey something a logo can do in the same space. The obvious classism, racism, and ageism are just the start. I'm a young, white, educated iPhone owner and I can't be troubled to pull my phone out and scan every QR code on the shelf.
 

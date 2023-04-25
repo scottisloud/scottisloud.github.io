@@ -13,13 +13,13 @@ As it turns out, you can exploit the collaboration features introduced to Notes 
 
 Open the note you would like to link to and tap the Add Person icon.
 
-![Add Person to Notes]({{site.baseurl}}/img/notes-share-sheet.jpeg)
+![Add Person to Notes](../img/notes-share-sheet.jpeg)
 
 You’ll be provided with a standard iOS share sheet. Locate the “Copy Link” action in the bottom row and tap it.
 
 At this point you’re prompted to enter an email address or phone number of a potential collaborators.[^1] Since we’re collaborating with ourselves today, you can just tap Copy Link in the top right to copy the link to your clipboard and dismiss the share sheet.
 
-![Copy Link]({{site.baseurl}}/img/notes-copy-link.jpg)
+![Copy Link](../img/notes-copy-link.jpg)
 
 Now you can easily paste this link into the Notes section of your task manager of choice, or the URL section of a calendar event, or anywhere else you please. Clicking on this link will take you straight to the note so you don’t have to do any time-consuming digging and browsing.
 

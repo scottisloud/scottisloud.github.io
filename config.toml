@@ -1,6 +1,6 @@
 # Base URL used when generating links to your pages
 # Set to the URL for your site
-baseURL = "rtt/"
+baseURL = "https://scottisloud.github.io/rtt/"
 
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
@@ -10,6 +10,7 @@ title = "Recall These Thoughts"
 author = "Scott Lougheed"
 copyright = "Copyright © 2020, Scott Lougheed."
 languageCode = "en-US"
+enableInlineShortcodes = true
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true

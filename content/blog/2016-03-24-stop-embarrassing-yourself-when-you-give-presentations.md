@@ -38,7 +38,7 @@ Avoid having your display fall asleep in the middle of a presentation by install
 
 You can, of course, simply adjust the "Energy Saver" settings for this user account to set the display to "never sleep", but I appreciate that Amphetamine offers a visual indicator of it's current status. Another advantage is that, should I need to, I can make an adjustment a bit more easily compared to the Energy Saver settings. Also, since I run Amphetamine on my main user account (though in a much different way), I have it installed anyway, so why not use it?
 
-### Share only the right files, only the right way.
+### Share only the right files, only the right way
 
 You won't be doing any actual presentation-building in the presentation account, in fact you'll spend almost no time in this account aside from actually delivering the presentation! That means you'll need a way of getting your presentations from your main user account to your presentation account. I have several mechanisms in place to facilitate this: Dropbox Selective Sync and /Users/Shared folder. They serve different purposes.
 
@@ -62,7 +62,7 @@ OS X offers the ability to have multiple users logged into the computer at one t
 
 This seems like a rather daunting list of steps, but in reality you should be up and running in 20-30 minutes and you'll never have to do it again. You can now enjoy your secure little presentation silo, free from embarrassing notifications and narcoleptic computer displays.
 
-   [1]: /img/finder-settings.png
-   [2]: /img/presentation-dock.png
-   [3]: /img/amphetamine-settings.png
-   [4]: /img/fast-user-switching-alternative.png
+   [1]: ../img/finder-settings.png
+   [2]: ../img/presentation-dock.png
+   [3]: ../img/amphetamine-settings.png
+   [4]: ../img/fast-user-switching-alternative.png

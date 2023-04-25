@@ -7,12 +7,12 @@ date: 2020-02-26
 
 I'm currently working on a small Mac menu-bar based application for myself. I wanted to present information in an `NSTableView`, but the standard cell-based row cell offered by `NSTableView` on macOS didn't offer me enough flexibility for my needs. The basic cell-based `NSTableView` looks similar to this:
 
-![Classic Table View](/img/classic-table.png)
+![Classic Table View](../img/classic-table.png)
 This is a super clear and useful way to display lots of data in a sortable table. For my project I needed something a bit more aesthetically pleasing for use in a context where there would always be a fixed number of table cells in a fixed order. 
 
 I needed to display multiple, differently-sized and formatted `NSLabels` and `NSImages`. View-based `NSTableViews` are perfect for this, allowing for something like this crude example:
 
-![Custom View-based Table](/img/view-based-table.png)
+![Custom View-based Table](../img/view-based-table.png)
 On iOS this is accomplished by creating static cells, which is not only fairly straightforward, but also the subject of dozens of reasonably current tutorials and Stack Overflow posts. 
 
 Accomplishing this in AppKit is not nearly as straightforward (a truism), and all but one of the examples I could find online were around a decade old and written in Objective-C (also a truism about Mac development). There was a single example (the link to which I have since lost, and it is hard to find!) in Swift, albeit in Swift 3, since which time there have been numerous changes to the Swift language and to how Interface Builder works in Xcode.
@@ -25,6 +25,7 @@ To begin, open a new Swift language project for macOS in Xcode. I'll walk us thr
 
 ## Creating Our Classes
 Let's start by creating the necessary classes and any additional files we might need. 
+
 ### ViewController()
 First we need to have our `ViewController()` class conform to `NSTableViewDelegate` and `NSTableViewDataSource`.
 
@@ -37,11 +38,11 @@ let users = [["name":"Scott Lougheed", "role":"CEO"], ["name":"Ari Khari", "role
 ### CustomTableCell()
 Now add a new Cocoa class file.
 
-![Create a new Cocoa class](/img/new-cocoa-class.png)
+![Create a new Cocoa class](../img/new-cocoa-class.png)
 
 Name the file CustomTableCell (obviously this could be whatever you like for your own project) and make it a subclass of NSTableCellView. 
 
-![name cocoa class and subclass](/img/name-new-cocoa-class.png)
+![name cocoa class and subclass](../img/name-new-cocoa-class.png)
 We don't need to do anything with this file yet, to let's move on to our interface. 
 
 ## Building the Interface
@@ -50,7 +51,7 @@ Switch to Main.storyboard and add a Table View to the existing view. Resize the 
 
 In the Document Outline, select the Table View (make sure you haven't accidentally selected the Bordered Scroll View or any other superviews).
 
-![Select Table View in IB](/img/select-tableview.png)
+![Select Table View in IB](../img/select-tableview.png)
 
 In the Table View's Attributes Inspector:
 - Make sure Content Mode is set to View Based and the number of columns is set to 1 and uncheck the "Headers" option.
@@ -59,20 +60,20 @@ In the Table View's Attributes Inspector:
 While we have our Table View selected: 
 - ctrl-drag from the Table View in the Document Outline to View Controller and set the View Controller as the Table View's Delegate and Data Source.
 
-![Setting the table's delegate and data source](/img/delegate-and-data-source.png)
+![Setting the table's delegate and data source](../img/delegate-and-data-source.png)
 
 Finally, select the size inspector for the Table and set the Row Size Style to Custom and the row height to 60. 
 
 Back in the Document Outline, select the Table Cell View. In the Identity Inspector:
 - Set the Class to our previously-created CustomTableCell class. 
 - Set the Identifier to userCell so we can address it from our ViewController class.
-![Identity Inspector for Table Cell View](/img/table-cell-identity.png)
+![Identity Inspector for Table Cell View](../img/table-cell-identity.png)
 
 Select the Size Inspector:
 - Set the Height to 60. This won't impact the interface at build time but does make the row in Interface Builder match the row height we set for the Table View, which makes placing our UI elements much easier. 
 
 We should now have a table in Interface Builder that looks roughly like this:
-![table in interface builder](/img/ib-table.png)
+![table in interface builder](../img/ib-table.png)
 
 ### Building our UI
 Select the existing label that says "Table View Cell" and delete it. 
@@ -102,7 +103,7 @@ Return to the Role label one last time and set a constraint of 8pts from the tra
 ### Creating Outlets and Actions  
 Using the assistant editor, create an outlet for each label (userNameLabel and roleLabel, respectively) in CustomTableCell.  Create an action for the Button, which we'll just leave as a stub. Your `CustomTableCell()` class should look like this:
 
-![Custom table cell code](/img/custom-cell-code.png)
+![Custom table cell code](../img/custom-cell-code.png)
 For our purposes we don't need to create an outlet for the table in our View Controller but don't forget to do this if you're going to be doing anything serious with your table. 
 
 ## Configuring Our TableView
