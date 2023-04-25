@@ -4,7 +4,7 @@ title : Home
 # permalink: /about/
 ---
 
-![avatar](/img/avatar.jpg)
+![avatar](img/avatar.jpg)
 
 ### Scott Lougheed
 
