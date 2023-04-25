@@ -1,7 +1,5 @@
 ---
-menu: main
 title: Coliphone
-draft: true
 ---
 # A match made in heaven
 
