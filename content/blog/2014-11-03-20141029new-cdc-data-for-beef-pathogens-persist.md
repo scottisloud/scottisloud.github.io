@@ -1,12 +1,8 @@
 ---
-id: 28
 title: 'New CDC Data for Beef &#8211; Pathogens Persist!'
 date: 2014-11-03T21:03:00+00:00
 author: scottisloud
-excerpt: '<p><span style="font-size:16px">The US Centre for Disease Control (CDC) recently released some preliminary data on&nbsp;</span><em>E. coli</em><span style="font-size:16px">&nbsp;and&nbsp;</span><em>Salmonella</em><span style="font-size:16px">&nbsp;in beef in the United States.</span></p>'
 layout: post
-guid: http://scottlougheed.com/2014/11/03/20141029new-cdc-data-for-beef-pathogens-persist/
-permalink: /2014/11/03/20141029new-cdc-data-for-beef-pathogens-persist/
 categories:
   - 
 tags:

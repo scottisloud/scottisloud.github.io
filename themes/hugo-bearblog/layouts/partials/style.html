@@ -1,6 +1,8 @@
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Mukta+Vaani:wght@400;500&family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
   body {
-    font-family: Verdana, sans-serif;
+    font-family: 'Mukta Vaani', Helvetica, Arial, sans-serif;
     margin: auto;
     padding: 20px;
     max-width: 720px;
@@ -10,6 +12,7 @@
     overflow-wrap: break-word;
     line-height: 1.5;
     color: #444;
+    font-size: 18px;
   }
 
   h1,
@@ -24,12 +27,13 @@
   }
 
   a {
-    color: #e6760d;
-    /* color: #3273dc; */
-    /* color: #ff5e6c; */
+    color: #cc6600;
   }
 
   .title {
+    font-family: 'Mukta Vaani', Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    font-size: 30px;
     text-decoration: none;
     border: 0;
   }
@@ -37,9 +41,19 @@
   .title span {
     font-weight: 400;
   }
+  header h2 {
+  margin-block-end: 0;
+  margin-block-start: 0;
+  }
 
   nav a {
     margin-right: 10px;
+    text-decoration: none;
+    font-size: larger;
+  }
+
+  nav a:hover  {
+    border-bottom: 1px dotted black;
   }
 
   textarea {
@@ -64,11 +78,11 @@
   }
 
   img.avatar {
-	width: 300px;
-	height: 300px;
+	width: 200px;
+	height: 200px;
 	border-radius: 50%;
 	display: block;
-	margin-top: 30px;
+	margin-top: 10px;
 	margin-right: auto;
 	margin-left: auto;
 }
@@ -187,9 +201,8 @@
   margin-right: auto;
   width: 50%;
 }
+
 .light-caption {
   font-size: small;
 }
-  
-
 </style>
