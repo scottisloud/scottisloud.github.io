@@ -1,11 +1,10 @@
 ---
 title : Home
-# permalink: /about/
 ---
 
-{{< img src="./img/avatar.jpg" id="avatar" class="avatar" >}}
-
 ## Scott Lougheed
+
+{{< img src="./img/avatar.jpg" id="avatar" class="avatar" >}}
 
 ### Currently
 
