@@ -1,6 +1,7 @@
 ---
 title: Publications
 menu: main
+kind: home
 #tagline: "Publications and Research Output"
 ---
 

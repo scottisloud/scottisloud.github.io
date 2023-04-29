@@ -1,5 +1,6 @@
 ---
 title: E. coli Panic and Salmonella Silence&#58; Why has nobody paid attention to frozen breaded chicken?
+date: 2018-03-18
 layout: post
 ---
 

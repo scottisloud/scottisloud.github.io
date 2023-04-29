@@ -1,6 +1,6 @@
 ---
 title: WeatherBar
-permalink: /weatherbar/
+slug: weatherbar
 menu: main
 #tagline: "Fast, accurate, and private weather at your finger tips"
 ---
@@ -44,5 +44,3 @@ There is also some doubt about the future of WeatherBar. The weather service Wea
 
 - Does the app respect your preference for “Start at login”
 - Does the app display correct location and weather data after you log in or restart your system?
-
-<hr />
