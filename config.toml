@@ -1,6 +1,6 @@
 # Base URL used when generating links to your pages
 # Set to the URL for your site
-baseURL = "https://scottisloud.github.io/rtt/"
+baseURL = "https://scottlougheed.com"
 
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
@@ -31,11 +31,12 @@ ignoreErrors = ["error-disable-taxonomy"]
   favicon = "images/favicon.png"
   rssicon = "images/rss.svg"
   mastodon = "images/mastodon.svg"
+
   # These "images" are used for the structured data templates. This will show up, when
   # services like Twitter or Slack want to generate a preview of a link to your site.
   # See https://gohugo.io/templates/internal#twitter-cards and
   # https://gohugo.io/templates/internal#open-graph.
-  images = ["images/share.png"]
+  images = ["images/favicon.png"]
 
   # Another "title" :-). This one is used as the site_name on the Hugo's internal
   # opengraph structured data template.
