@@ -1,7 +1,7 @@
 ---
-date: 2018-06-04
-title: Salmonella in frozen breaded chicken continues to be a problem in Canada
+date: "2018-06-04"
 layout: post
+title: Salmonella in frozen breaded chicken continues to be a problem in Canada
 ---
 
 From the [PHAC][PHAC] on June 2nd 2018:

@@ -1,5 +1,5 @@
 ---
-title: "Blog"
-type: blog
 menu: main
+title: Blog
+type: blog
 ---

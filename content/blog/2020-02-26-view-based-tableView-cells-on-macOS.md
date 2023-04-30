@@ -1,7 +1,7 @@
 ---
-title: Making view-based NSTableView Cells with Swift 5 
+date: "2020-02-26"
 layout: post
-date: 2020-02-26
+title: Making view-based NSTableView Cells with Swift 5
 ---
 
 

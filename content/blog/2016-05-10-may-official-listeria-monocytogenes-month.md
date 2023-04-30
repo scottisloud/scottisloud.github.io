@@ -1,7 +1,7 @@
 ---
-date: 2016-05-10
-title: May is Official Listeria Monocytogenes Month
+date: "2016-05-10"
 layout: post
+title: May is Official Listeria Monocytogenes Month
 ---
 
 Okay, so perhaps not precisely the month of May, but starting in late April there's been a spat of recalls attributable to Listeria in Canada and the United States. Looking at the CFIA recall listings for the first 10 days of May:

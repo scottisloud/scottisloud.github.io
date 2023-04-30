@@ -1,6 +1,6 @@
 ---
+date: "2021-11-28"
 title: November 28 2021 Session Recap - The Joy of Extradimensional Spaces
-date: 2021-11-28
 ---
 
 The party arrived at Candlekdeep and each party member offered up books of interest to the Avowed guarding the gates. Some books were stacked along with other ornate tomes. Others were placed careless on several other piles comprised of rather eclectic mix of things that could barely pass as books. 

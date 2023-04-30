@@ -1,7 +1,7 @@
 ---
-title: Massive spice recalls for lead contamination
+date: "2016-08-16"
 layout: post
-date: 2016-08-16
+title: Massive spice recalls for lead contamination
 ---
 
 A spat of spice recalls have taken place over the last few weeks in the United States.

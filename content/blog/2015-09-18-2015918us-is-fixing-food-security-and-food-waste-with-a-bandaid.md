@@ -1,13 +1,13 @@
 ---
-id: 60
-title: U.S. is fixing food security and food waste with a bandaid
-date: 2015-09-18T16:54:16+00:00
 author: scottisloud
-layout: post
-guid: http://wp.scottlougheed.com/2015/09/18/2015918us-is-fixing-food-security-and-food-waste-with-a-bandaid/
-permalink: /2015/09/18/2015918us-is-fixing-food-security-and-food-waste-with-a-bandaid/
 categories:
-  - 
+- null
+date: "2015-09-18T16:54:16+00:00"
+guid: http://wp.scottlougheed.com/2015/09/18/2015918us-is-fixing-food-security-and-food-waste-with-a-bandaid/
+id: 60
+layout: post
+permalink: /2015/09/18/2015918us-is-fixing-food-security-and-food-waste-with-a-bandaid/
+title: U.S. is fixing food security and food waste with a bandaid
 ---
 The United States government wants to reduce their food waste by half by 2030:
 

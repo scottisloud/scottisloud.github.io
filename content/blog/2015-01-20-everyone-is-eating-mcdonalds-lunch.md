@@ -1,11 +1,11 @@
 ---
-id: 40
-title: "Everyone is Eating McDonald's Lunch"
-date: 2015-01-30
 author: scottisloud
-layout: post
+date: "2015-01-30"
 guid: http://scottlougheed.com/2015/01/30/2015130everyone-is-eating-mcdonalds-lunch/
+id: 40
+layout: post
 permalink: /2015/01/30/2015130everyone-is-eating-mcdonalds-lunch/
+title: Everyone is Eating McDonald's Lunch
 ---
 Last December <a target="_blank" href="{{ site.url }}/2014/12/6/aint-no-dolla-menu-no-mo">I made a post about Moo Cluck Moo</a> in which I argued against economist Michael Strain:
 

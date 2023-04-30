@@ -1,8 +1,7 @@
 ---
-title: WeatherBar
-slug: weatherbar
 menu: main
-#tagline: "Fast, accurate, and private weather at your finger tips"
+slug: weatherbar
+title: WeatherBar
 ---
 ## WeatherBar Beta Builds
   

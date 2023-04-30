@@ -1,9 +1,9 @@
 ---
-id: 55
-title: DEVONthink and Evernote Part II
-date: 2015-07-27T15:23:00+00:00
 author: scottisloud
+date: "2015-07-27T15:23:00+00:00"
+id: 55
 layout: post
+title: DEVONthink and Evernote Part II
 ---
 [Last post]({{site.baseurl}}/2015/07/21/2015719devonthink-vs-evernote-part-i/) we left off with how Evernote and DEVONthink handle data a bit differently. This week we begin with a very useful feature in both applications, but with slight differences in their implementation, which lead to very different possibilities.
 

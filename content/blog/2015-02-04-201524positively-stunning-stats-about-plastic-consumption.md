@@ -1,13 +1,13 @@
 ---
-id: 49
-title: Positively stunning stats about plastic consumption
-date: 2015-02-04T18:00:00+00:00
 author: scottisloud
-layout: post
-guid: http://scottlougheed.com/2015/02/04/201524positively-stunning-stats-about-plastic-consumption/
-permalink: /2015/02/04/201524positively-stunning-stats-about-plastic-consumption/
 categories:
-  - 
+- null
+date: "2015-02-04T18:00:00+00:00"
+guid: http://scottlougheed.com/2015/02/04/201524positively-stunning-stats-about-plastic-consumption/
+id: 49
+layout: post
+permalink: /2015/02/04/201524positively-stunning-stats-about-plastic-consumption/
+title: Positively stunning stats about plastic consumption
 ---
 Food Manufacturing writing about a recent report on plastic production and use:<figure>
 

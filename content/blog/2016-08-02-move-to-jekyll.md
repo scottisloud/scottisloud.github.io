@@ -1,8 +1,8 @@
 ---
-date: 2016-08-02
-title: Moving my website from Wordpress to Jekyll
+date: "2016-08-02"
 layout: post
 published: true
+title: Moving my website from Wordpress to Jekyll
 ---
 My regular reader will have noticed recent change to the appearance of Recall These Thoughts. For the second time in one year I've changed blog platforms. You, dear reader, will likely remember the move away from Squarespace over to Wordpress. This was motivated as both a cost-saving measure and a way to gain a bit of additional flexibility. I love Squarespace, but a big part of having a blog for me is having a little toy to tinker with. Wordpress offered a bit more of that type of freedom.  
 

@@ -1,7 +1,8 @@
 ---
-date: 2016-08-23
+date: "2016-08-23"
 layout: post
-title: National Farmers Union concerns over Irradiation in Canada a mixed bag of strawmen and valid concerns
+title: National Farmers Union concerns over Irradiation in Canada a mixed bag of strawmen
+  and valid concerns
 ---
 The September 1st deadline for public comments on proposed legislation that would allow firms to irradiate beef draws near. While the previous effort to bring irradiation to the beef industry in 2002 failed, there is hope that the events of the intervening 14 years might have shifted public attitudes. However criticisms of the potential plan are already emerging and not just from consumers. While it might be intuitive to assume that the beef industry in Canada is united in their support for this move – it was industry stakeholders who pushed for the first consult in 2002, and again this year – the beef industry itself is divided.
 

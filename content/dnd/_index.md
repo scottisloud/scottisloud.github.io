@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Encryption Dungeon
 pagination:
-    enabled: false
-#tagline: Some sales engineers and a professor come together to solve a mystery!
+  enabled: false
+title: Encryption Dungeon
 ---
 
 </br>

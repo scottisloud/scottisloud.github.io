@@ -1,13 +1,13 @@
 ---
-id: 35
-title: Just slap a new sticker on it!
-date: 2014-11-27T12:02:18+00:00
 author: scottisloud
-layout: post
-guid: http://scottlougheed.com/2014/11/27/20141127just-slap-a-new-sticker-on-it/
-permalink: /2014/11/27/20141127just-slap-a-new-sticker-on-it/
 categories:
-  - 
+- null
+date: "2014-11-27T12:02:18+00:00"
+guid: http://scottlougheed.com/2014/11/27/20141127just-slap-a-new-sticker-on-it/
+id: 35
+layout: post
+permalink: /2014/11/27/20141127just-slap-a-new-sticker-on-it/
+title: Just slap a new sticker on it!
 ---
 From the <a target="_blank" href="http://www.cbc.ca/news/canada/montreal/grocery-stores-caught-cheating-on-packaging-dates-of-meat-and-poultry-1.2851437?cmp=rss">CBC</a>:
 

@@ -1,7 +1,7 @@
 ---
-date: 2021-08-28
-title: A long overdue and brief update
+date: "2021-08-28"
 layout: post
+title: A long overdue and brief update
 ---
 It's been over a year since I last updated this site. A lot has changed. The number of ruby gems I needed to reinstall, disable, or swap, just to build this website again is a sign of the extent of my neglect. 
 

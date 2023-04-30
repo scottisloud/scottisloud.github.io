@@ -1,14 +1,14 @@
 ---
-id: 41
-title: Sequencing the food safety genome
-date: 2015-01-30T17:26:08+00:00
 author: scottisloud
-layout: post
-guid: http://scottlougheed.com/2015/01/30/2015130sequencing-the-food-safety-genome/
-permalink: /2015/01/30/2015130sequencing-the-food-safety-genome/
-link: http://www.foodincanada.com/regulation/new-consortium-will-work-better-understand-food-safety-130532/
 categories:
-  - 
+- null
+date: "2015-01-30T17:26:08+00:00"
+guid: http://scottlougheed.com/2015/01/30/2015130sequencing-the-food-safety-genome/
+id: 41
+layout: post
+link: http://www.foodincanada.com/regulation/new-consortium-will-work-better-understand-food-safety-130532/
+permalink: /2015/01/30/2015130sequencing-the-food-safety-genome/
+title: Sequencing the food safety genome
 ---
 > The consortium has the potential to revolutionize food safety, providing a powerful tool to identify and address new threats on an unprecedented scale, enabling critical breakthroughs in global food safety.
 

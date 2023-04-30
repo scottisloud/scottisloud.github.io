@@ -1,12 +1,11 @@
 ---
-id: 54
-title: Evernote and DEVONthink Part I
-date: 2015-07-21T14:23:00+00:00
 author: scottisloud
-layout: post
+date: "2015-07-21T14:23:00+00:00"
 guid: http://scottlougheed.com/2015/07/21/2015719devonthink-vs-evernote-part-i/
+id: 54
+layout: post
 permalink: /2015/07/21/2015719devonthink-vs-evernote-part-i/
-
+title: Evernote and DEVONthink Part I
 ---
 I suspect a quick Google search will show a few thousand results comparing Evernote and DEVONthink intended to help you decide which _one_ to use. However, I think it is important to explore the differences between these applications not for the purposes of choosing one _over_ the other, but for understanding the different needs that each application offers. It is not an either/or situation. I chose these two applications because they are very frequently referred together or suggested as alternatives to one another. However, they are not alternatives, they are not replacements, they are different products with different purposes and uses. And while I've chosen to compare these two, there are plenty of other options, [Microsoft's OneNote](http://www.onenote.com) and [Google's Keep](https://keep.google.com) are two prime examples of options that are also along the lines of Evernote (and less like DEVONthink), as you shall quickly see.
 

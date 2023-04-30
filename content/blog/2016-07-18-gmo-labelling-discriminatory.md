@@ -1,7 +1,7 @@
 ---
-date: 2016-07-18
-title: US GMO labeling seriously flawed, discriminatory
+date: "2016-07-18"
 layout: post
+title: US GMO labeling seriously flawed, discriminatory
 ---
 
 [Jesse Jackson, Centre for Food Safety](http://www.centerforfoodsafety.org/press-releases/4432/rev-jesse-jackson-calls-on-president-obama-to-reject-discriminatory-labeling-bill) writes:

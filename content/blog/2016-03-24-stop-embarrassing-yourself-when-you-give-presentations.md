@@ -1,7 +1,7 @@
 ---
-title: Stop embarrassing yourself when you give presentations
-date: 2016-03-24
+date: "2016-03-24"
 layout: post
+title: Stop embarrassing yourself when you give presentations
 ---
 
 As I wrap up a semester of teaching a third year university class and I prepare to present at the American Association of Geographers conference next week, I've been thinking about presentations, presentations, presentations. We've all seen it, or perhaps been there ourselves: The previously well-composed presenter now desperately trying to wake their computer up so we can move to the next slide, or scrambling to close embarrassing browser tabs and email messages only to then fish through a slew of personal files to locate the presentation file. It's unpleasant to experience this from either side of the podium. It can disrupt the flow of our presentation, undo the polished public persona we work hard to cultivate, or reveal information we might prefer kept private. I have seen veteran academics, part of whose job is to regularly give presentations, melt into an embarrassed and frustrated mess. This has always been surprising for me. It is the things we do on a regular basis in our jobs that we should have mastered, the kinks long-ago ironed out. For some reason when it comes to technology this seems not to be the case. The beautiful thing is you can stop embarrassing yourself when you make presentations with very little effort, and you'll thank yourself every time you need to present. I will walk you through my setup for giving presentations without embarrassing technological gaffs. It'll take you $0 and about 20 minutes to have yourself set up the same. The added bonus is that you'll never have to fear for your security if you're sharing your computer at conferences, too. In this post I guide you through the process of setting up a computer user account dedicated to giving presentations.

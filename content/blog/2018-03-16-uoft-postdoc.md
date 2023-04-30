@@ -1,5 +1,5 @@
 ---
-date: 2018-03-16
+date: "2018-03-16"
 title: 'New position: Postdoctoral Fellow at University of Toronto'
 ---
 

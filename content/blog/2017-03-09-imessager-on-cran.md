@@ -1,7 +1,7 @@
 ---
-date: 2017-03-09
-title: Introducing iMessageR for R
+date: "2017-03-09"
 layout: post
+title: Introducing iMessageR for R
 ---
 
 ## What it does

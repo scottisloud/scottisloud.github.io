@@ -1,7 +1,8 @@
 ---
-date: 2018-05-30
-title: Should we really be concerned that consumers don't think they are "most responsible" for food safety?
+date: "2018-05-30"
 layout: post
+title: Should we really be concerned that consumers don't think they are "most responsible"
+  for food safety?
 ---
 
 A [recent survey][survey] from Dalhousie University conducted by Sylvain Charlebois and colleagues examined food recalls and food safety in Canada. While the study raises some important issues worthy of further investigation, I take issue with one area of concern cited by the study's authors. The authors of the survey [were troubled][crosscontamination] by their finding that most consumers did not feel they were among the "most responsible for ensuring food safety in Canada", and that most consumers believed contamination generally took place before food reached their homes. Since cross-contamination in the home has been implicated in past foodborne illness outbreaks, one could conclude that consumers are not living up to their responsibility as guarantors of food safety. However, as I see it, placing primary responsibility for food safety on consumers is the troubling part for number of reasons.

@@ -1,6 +1,6 @@
 ---
+date: "2021-11-26"
 title: Introduction to Dungeons and Dragons
-date: 2021-11-26
 ---
 
 This page should hopefully provide you with links to all the resources and things you’ll need to play. 

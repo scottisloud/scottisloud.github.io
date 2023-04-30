@@ -1,8 +1,8 @@
 ---
-date: 2016-08-05
-title: So much for choice and transparency
+date: "2016-08-05"
 layout: post
 link: http://www.centerforfoodsafety.org/blog/4441/why-the-gmo-labeling-bill-that-obama-just-signed-into-law-is-a-shamand-a-national-embarrassment#
+title: So much for choice and transparency
 ---
 Regarding the recent signing of the DARK act:
 

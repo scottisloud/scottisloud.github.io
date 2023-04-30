@@ -1,12 +1,12 @@
 ---
-id: 50
-title: "Introducing Canada's Waste Network!"
-date: 2015-05-05T21:11:15+00:00
 author: scottisloud
+categories:
+- null
+date: "2015-05-05T21:11:15+00:00"
+id: 50
 layout: post
 link: http://www.canadaswastenetwork.com
-categories:
-  -
+title: Introducing Canada's Waste Network!
 ---
 ![CWN logo](../img/cwn-logo.png)
 

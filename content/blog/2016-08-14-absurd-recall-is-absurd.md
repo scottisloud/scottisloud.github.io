@@ -1,9 +1,9 @@
 ---
-title: Nuts recalled for undisclosed nuts
+date: "2016-08-14"
 layout: post
 link: http://www.dailymail.co.uk/news/article-3716810/Lidl-recalls-yoghurts-peanuts-don-t-warn-customers-contain-MILK-NUTS.html
 published: true
-date: 2016-08-14
+title: Nuts recalled for undisclosed nuts
 ---
 <blockquote>
 Lidl has recalled some of its yoghurt and peanuts because the packets don't warn customers that they contain milk and nuts.

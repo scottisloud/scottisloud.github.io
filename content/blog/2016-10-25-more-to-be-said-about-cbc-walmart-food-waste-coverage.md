@@ -1,7 +1,7 @@
 ---
-date: 2016-10-25
-title: There's a lot more to be said about CBC's Walmart food waste coverage
+date: "2016-10-25"
 layout: post
+title: There's a lot more to be said about CBC's Walmart food waste coverage
 ---
 The CBC's Marketplace is focusing on retail food waste this week. Yesterday we heard from a former Walmart contractor that  [a 'heartbreaking' amount of food is trashed every day](http://www.cbc.ca/news/canada/british-columbia/walmart-food-waste-go-public-1.3813162). Today, [Marketplace reveals its findings from 12 days of sifting through Walmart dumpsters](http://www.cbc.ca/news/business/marketplace-walmart-food-waste-1.3814719).  
 This is a great scoop for the CBC and I think this kind of coverage is just what is needed to bring light to a shameful problem. Food retail accounts for 10% of the food wasted in Canada. This is a small slice of the pie, but in absolute terms, it's a substantial amount of food (it is, after all, a very big pie). These CBC stories can stand on their own, but I wanted to add some additional commentary and nuance based on some of my experience and research on food waste.

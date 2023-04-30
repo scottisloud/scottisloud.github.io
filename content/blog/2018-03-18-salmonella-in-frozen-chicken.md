@@ -1,7 +1,8 @@
 ---
-title: E. coli Panic and Salmonella Silence&#58; Why has nobody paid attention to frozen breaded chicken?
-date: 2018-03-18
+date: "2018-03-18"
 layout: post
+title: E. coli Panic and Salmonella Silence&#58; Why has nobody paid attention to
+  frozen breaded chicken?
 ---
 
 In 2012, XL Foods issued an international recall of 1800 products potentially contaminated with *E. coli* O157:H7 and linked to 18 illnesses and zero deaths. The recall and outbreak were protracted affairs, with significant media attention beginning in October 2012 and continuing into 2013.[^1]

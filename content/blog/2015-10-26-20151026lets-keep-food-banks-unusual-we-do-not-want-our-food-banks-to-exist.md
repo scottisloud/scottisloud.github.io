@@ -1,8 +1,8 @@
 ---
-title: "Let's keep food banks unusual: We do not want our food banks to exist..."
-date: 2015-10-26T17:49:06+00:00
-layout: post
+date: "2015-10-26T17:49:06+00:00"
 guid: http://scottlougheed.com/2015/10/26/20151026lets-keep-food-banks-unusual-we-do-not-want-our-food-banks-to-exist/
+layout: post
+title: 'Let''s keep food banks unusual: We do not want our food banks to exist...'
 ---
 In an [earlier piece][1] I challenged the notion that the defect-to-donation model is a way of solving food waste and food security issues. Essentially I argued that stocking food bank shelves should never be considered a move towards resolving food security. It is not. The very existed of food banks, and their shelves, points to the pervasiveness and persistence of food insecurity. Moreover, the growing trend towards diverting food from landfill to food banks for quality or safety defects isn't a solution to food waste, it's a clear indicator of excess and the inflation of standards to match. It's hubris. It is dehumanizing. It is opportunistic.
 

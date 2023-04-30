@@ -1,7 +1,7 @@
 ---
-date: 2019-05-09
-title: Making Jekyll Website Updates Easier with rsync
+date: "2019-05-09"
 layout: post
+title: Making Jekyll Website Updates Easier with rsync
 ---
 
 This website is created using [Jekyll](https://jekyllrb.com/). Jekyll is great for making simple, static websites like this one. Jekyll makes composing new posts super easy since posts are just basic markdown files. What does take a bit of effort is actually publishing a post. I run Jekyll locally, so there is no "publish" button I can just press and let loose my words on the world like users of fully hosted CMS (e.g., Wordpress) can. Every time a Jekyll site is modified it needs to be rebuilt and the modified files uploaded to the server.

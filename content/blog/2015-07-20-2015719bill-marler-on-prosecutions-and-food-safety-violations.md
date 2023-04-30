@@ -1,14 +1,14 @@
 ---
-id: 53
-title: Bill Marler on prosecutions and food safety violations
-date: 2015-07-20T15:55:00+00:00
 author: scottisloud
-layout: post
-guid: http://scottlougheed.com/2015/07/20/2015719bill-marler-on-prosecutions-and-food-safety-violations/
-permalink: /2015/07/20/2015719bill-marler-on-prosecutions-and-food-safety-violations/
-link: http://www.marlerblog.com/lawyer-oped/food-crimes-when-to-prosecute-and-when-to-not/
 categories:
-  - 
+- null
+date: "2015-07-20T15:55:00+00:00"
+guid: http://scottlougheed.com/2015/07/20/2015719bill-marler-on-prosecutions-and-food-safety-violations/
+id: 53
+layout: post
+link: http://www.marlerblog.com/lawyer-oped/food-crimes-when-to-prosecute-and-when-to-not/
+permalink: /2015/07/20/2015719bill-marler-on-prosecutions-and-food-safety-violations/
+title: Bill Marler on prosecutions and food safety violations
 ---
 Lots of insight in this article.
 

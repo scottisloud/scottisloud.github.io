@@ -1,7 +1,7 @@
 ---
-date: 2017-12-09
-title: Workflow for renaming journal articles on iPad
+date: "2017-12-09"
 layout: post
+title: Workflow for renaming journal articles on iPad
 ---
 I've created a [workflow][workflow] to easily rename PDF files on iOS in the following pattern:
 ```

@@ -1,13 +1,13 @@
 ---
-id: 38
-title: 'No more dollar menu'
-date: 2014-12-07T13:02:14+00:00
 author: scottisloud
+categories:
+- null
+date: "2014-12-07T13:02:14+00:00"
+id: 38
 layout: post
 structured_content:
-  - '{"oembed":{},"overlay":true}'
-categories:
-  - 
+- '{"oembed":{},"overlay":true}'
+title: No more dollar menu
 ---
 NPR posted an article about [Moo Cluck Moo](http://www.npr.org/blogs/thesalt/2014/12/04/368442087/a-burger-joint-pays-15-an-hour-and-yes-its-making-money?utm_medium=RSS&utm_campaign=thesalt), a fast casual restaurant chain that pays its workers $15 per hour while remaining profitable. In addition to treating their employees comparatively well, they also bake their buns fresh in store, make their own mayonnaise, and source meat from producers who treat their animals well and do not use hormones and antibiotics. The result is a burger that costs $6. The article compares this to a Big Mac, currently priced at $4.80.
 

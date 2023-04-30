@@ -1,7 +1,7 @@
 ---
-title: 'Summarizing Academic Literature with OmniOutliner and DEVONthink'
-date: 2015-07-17
 author: scottisloud
+date: "2015-07-17"
+title: Summarizing Academic Literature with OmniOutliner and DEVONthink
 ---
 In this entry I talk about how I use [OmniOutliner](https://www.omnigroup.com/omnioutliner/) and [DEVONthink Pro Office](http://devontechnologies.com) to summarize academic literature to lay the foundation for a literature review (or any type of written work, for that matter).
 

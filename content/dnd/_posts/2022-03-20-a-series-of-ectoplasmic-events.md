@@ -1,6 +1,6 @@
 ---
+date: "2022-03-20"
 title: A series of ectoplasmic events
-date: 2022-03-20
 ---
 The team meet **Orrin Glass**, with whom **Havilar** quickly brokers an arrangement to clean up Matreous’s room in exchange for Orrin to keep them out of the incident report for the dead mage. 
 

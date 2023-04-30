@@ -1,7 +1,7 @@
 ---
-title: Highlights from Stericycle's Q2 "Tainted Table" Report
+date: "2016-08-17"
 layout: post
-date: 2016-08-17
+title: Highlights from Stericycle's Q2 "Tainted Table" Report
 ---
 
 Stericycle this month published their [Q2 report on product recalls in the United States](http://www.stericycleexpertsolutions.com/wp-content/uploads/2016/08/STCExpertSOLUTIONS-IndustrySpotlight-US-Q22016-FINAL.pdf), which they've called "Tainted Table". I love these quarterly reports from Stericycle, and I think this one has some interesting bits worth highlighting.

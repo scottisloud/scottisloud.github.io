@@ -1,16 +1,16 @@
 ---
-title: 'New CDC Data for Beef &#8211; Pathogens Persist!'
-date: 2014-11-03T21:03:00+00:00
 author: scottisloud
-layout: post
 categories:
-  - 
+- null
+date: "2014-11-03T21:03:00+00:00"
+layout: post
 tags:
-  - ABR
-  - beef
-  - CDC
-  - E. coli
-  - Salmonella
+- ABR
+- beef
+- CDC
+- E. coli
+- Salmonella
+title: New CDC Data for Beef &#8211; Pathogens Persist!
 ---
 The US Centre for Disease Control (CDC) recently released some preliminary data on&nbsp;_E. coli_&nbsp;and&nbsp;_Salmonella_&nbsp;in beef in the United States. As those of you who follow food safety know, the last 20 years or so (especially since 1993's Jack-In-The-Box outbreak) have seen increased efforts to directly control pathogens and a move to mandatory use of HACCP. This &#8220;tough-on-pathogens&#8221; line of action should, ideally, reduce pathogenic contamination of food, no?
 

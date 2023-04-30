@@ -1,7 +1,7 @@
 ---
-title: I'm aging, and so is my taste in music
+date: "2020-01-09"
 layout: post
-date: 2020-01-09
+title: I'm aging, and so is my taste in music
 ---
 
 Today during a listen-through of Jimmy Eat World's discography (as I do with bands from time to time), it was time to listen to *Chase This Light* (2007), the band's fifth record. *Chase This Light* had, for a decade, been the point at which Jimmy Eat World and I diverged. For years, as the band released new records, I had difficulty coming around to their evolving sound. While I continued to buy their subsequent records, none of them made it into high rotation even though I regularly revisited *Clarity* (1999), *Bleed American* (2001), and *Futures* (2004). 

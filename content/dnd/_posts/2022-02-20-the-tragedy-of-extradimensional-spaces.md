@@ -1,6 +1,6 @@
 ---
+date: "2022-02-20"
 title: The tragic joy of extrademensional spaces
-date: 2022-02-20
 ---
 
 Where we left off, your characters emerged from Fistandia's mansion to find Matreous's corpse in the study room he'd rented in the Pillars of Pedagogy. 

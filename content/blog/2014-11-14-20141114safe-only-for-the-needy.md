@@ -1,14 +1,14 @@
 ---
-id: 34
-title: "Safe... only for the needy?"
-date: 2014-11-14T15:50:30+00:00
 author: scottisloud
-layout: post
-guid: http://scottlougheed.com/2014/11/14/20141114safe-only-for-the-needy/
-permalink: /2014/11/14/20141114safe-only-for-the-needy/
-link: http://www.pressdemocrat.com/news/3098942-181/25000-pounds-of-frozen-turkeys
 categories:
-  - 
+- null
+date: "2014-11-14T15:50:30+00:00"
+guid: http://scottlougheed.com/2014/11/14/20141114safe-only-for-the-needy/
+id: 34
+layout: post
+link: http://www.pressdemocrat.com/news/3098942-181/25000-pounds-of-frozen-turkeys
+permalink: /2014/11/14/20141114safe-only-for-the-needy/
+title: Safe... only for the needy?
 ---
 25,000 pounds of perfectly safe turkey donated (presumably to some population we might call &#8220;needy&#8221;). I suppose the tax write-off from the donation exceeded what the company deemed they could sell the damaged turkeys for on the market.&nbsp;
 

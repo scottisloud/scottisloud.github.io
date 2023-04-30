@@ -1,6 +1,6 @@
 ---
+date: "2021-11-27"
 title: The Adventure Begins
-date: 2021-11-27
 ---
 
 You are all relatively inexperienced adventurers (being level 1 and all…). Although even an inexperienced adventurer possesses skills and powers that far exceed that of typical residents of the Forgotten Realms (that’s the realm in which our game takes place), among adventurers you are largely un-tested. A bunch of yellow bellies. 

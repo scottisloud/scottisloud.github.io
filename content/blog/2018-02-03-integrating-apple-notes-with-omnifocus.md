@@ -1,7 +1,7 @@
 ---
-date: 2018-02-03
-title: Integrating Apple Notes with OmniFocus (or any task manager)
+date: "2018-02-03"
 layout: post
+title: Integrating Apple Notes with OmniFocus (or any task manager)
 ---
 Recently, I’ve been increasing the amount of information I keep in Apple’s Notes application, which received a significant feature update [in iOS 9](https://www.macstories.net/stories/ios-9-review/8/#notes). One thing I struggled with, however, was finding an easy way to surface needed information in Notes at a specific time.
 
