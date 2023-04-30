@@ -8,11 +8,11 @@ title: Home
 
 ### Currently
 
-I am currently a Solutions Architect at [1Password](https://1password.com). I help people implement our enterprise integrations and developer tools into their work.
+I am currently a Solutions Architect at [1Password](https://1password.com).
 
 ### As a human
 
-I am an enthusiastic cook and bread baker, a freelance sound engineer, and tech hobbiest. You may also see me riding my bike around town; fussing over coffee; reading sci-fi, fantasy, and lit-fic; improvosing; and playing guitar.
+I am an enthusiastic cook and bread baker, a freelance sound engineer, and tech hobbiest. You may also see me riding my bike around town, fussing over coffee, reading sci-fi, fantasy, and lit-fic, learning improv comedy; and playing guitar badly.
 
 ### Previously
 
